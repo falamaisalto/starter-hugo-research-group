@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        Lorem ipsum dolor sit amet. Quo autem dolor sed iure delectus ut blanditiis error. Et perspiciatis inventore et velit illo ut quos similique vel dolor dolore et fuga nihil et nesciunt nihil qui deserunt sequi. A nisi consequuntur est voluptatem laudantium id perferendis quas et quos possimus est autem nesciunt et nobis nobis. </p><p>Eos soluta atque ut esse laborum et deserunt officiis. Sed harum corrupti et distinctio dolorem aut suscipit provident? </p><p>Est doloremque officia At tempora quod aut asperiores neque id inventore saepe vel impedit nemo et obcaecati ipsa non sequi pariatur! Sit sint fuga ut corrupti iure id molestiae expedita qui amet accusantium ut quis asperiores est facere asperiores sit assumenda nobis. Eum ipsa fuga in odio dolores id nostrum provident eos nihil omnis qui eaque mollitia ut architecto nobis aut itaque nobis.
+        Lorem ipsum dolor sit amet. Quo autem dolor sed iure delectus ut blanditiis error. Et perspiciatis inventore et velit illo ut quos similique vel dolor dolore et fuga nihil et nesciunt nihil qui deserunt sequi. A nisi consequuntur est voluptatem laudantium id perferendis quas et quos possimus est autem nesciunt et nobis nobis.
 
   
   - block: collection
